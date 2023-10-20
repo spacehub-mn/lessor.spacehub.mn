@@ -1,7 +1,7 @@
 [[plugins]]
 package = "@algolia/netlify-plugin-crawler"
-  [plugins.inputs]
-  branches = ['main']
-  customDomain = "help.spacehub.mn"
-  renderJavaScript = true
-  template = "hierarchical"
+[plugins.inputs]
+branches = ['main']
+customDomain = "lessor.spacehub.mn"
+renderJavaScript = true
+template = "hierarchical"
