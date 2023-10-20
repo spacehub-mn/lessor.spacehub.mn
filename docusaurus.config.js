@@ -82,9 +82,9 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "payment",
+            docId: "dashboard/view-contract",
             position: "left",
-            label: "Оршин суугчдын гарын авлага",
+            label: "ҮХХ эзэмшигч",
           },
           // {
           //   type: 'doc',
